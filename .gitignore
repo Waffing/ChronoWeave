@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env*
+*.local
+.git/
+.qoder/
+*.qoder.site
+__pycache__/
+*.py[cod]

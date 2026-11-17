@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "browser": "Chromium headless (fresh isolated context)",
+  "checks": [
+    "Default Newton archive and 8-node ring rendered",
+    "Field filter survives node selection",
+    "Wheel zoom prevents page scroll; drag rotates; reset restores scale",
+    "Removed scenario shows 3 impact levels and downloads real PNG",
+    "Delayed scenario and source survive cross-era navigation and reload",
+    "All four eras render 9 / 8 / 8 / 8 nodes",
+    "Cruise advances historical focus and pauses",
+    "Mute setting persists; guide reopens and closes",
+    "390px viewport has no document overflow; zero page errors and external resource requests"
+  ],
+  "pageErrors": [],
+  "externalResources": []
+}
